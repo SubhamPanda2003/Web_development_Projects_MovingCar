@@ -31,7 +31,7 @@
     height:30vh;
     width:800vw;
     position: absolute;
-    margin-top: 75vh;
+    bottom:0;
     animation: roadmove linear 6s infinite;
 
 }
